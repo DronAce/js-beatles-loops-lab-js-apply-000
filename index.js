@@ -8,6 +8,8 @@ function theBeatlesPlay(a , b) {
   for (int i = 0; i < b.length; i+++) {
     instruments [i] = a [i];
   }
+
+  return [musicians, instruments];
 }
 
 function johnLennonFacts() {
