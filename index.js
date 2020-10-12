@@ -1,6 +1,6 @@
 // add solution here
-function theBeatlesPlay(a , b) {
-  var musicians = [];
+function theBeatlesPlay(a,b) {
+  var musicians = [][];
   for (var i = 0; i < a.length; i++) {
     musicians [i] = a [i];
   }
