@@ -8,8 +8,12 @@ function theBeatlesPlay(a , b) {
   return musicians;
 }
 
-function johnLennonFacts() {
-
+function johnLennonFacts(a) {
+  var i= 0;
+  while (i < a.length) {
+  a[i] = a[i] + "!!!";
+  }
+return musicians;
 }
 
 function iLoveTheBeatles() {
