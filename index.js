@@ -21,6 +21,6 @@ function iLoveTheBeatles() {
   var i = 0;
   do-while( i < 15) {
     x[i] = ['I Love the Beatles'];
-
+    i++
   }
 }
