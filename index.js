@@ -1,7 +1,7 @@
 // add solution here
 function theBeatlesPlay(a , b) {
   var musicians = [];
-  for (var i = 0; i < a.length; i++; var j = 0; j < b.length; j++) {
+  for (var i = 0; i < a.length; i++ var j = 0; j < b.length; j++) {
     musicians [i] = a [i] + b [j];
   }
 
