@@ -13,7 +13,7 @@ function johnLennonFacts(a) {
   while (i < a.length) {
   a[i] = a[i] + "!!!";
   }
-return musicians;
+return a;
 }
 
 function iLoveTheBeatles() {
