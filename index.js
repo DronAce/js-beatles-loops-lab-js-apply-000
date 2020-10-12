@@ -5,7 +5,7 @@ function theBeatlesPlay(a , b) {
     musicians [i] = a [i];
   }
   var instruments = [];
-  for (int i = 0; i < b.length; i+++) {
+  for (int i = 0; i < b.length; i++) {
     instruments [i] = a [i];
   }
 
