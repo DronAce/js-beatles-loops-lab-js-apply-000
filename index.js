@@ -1,7 +1,7 @@
 // add solution here
-function theBeatlesPlay() {
+function theBeatlesPlay(a , b) {
   var musicians = [];
-  for (int i = 0; i) {
+  for (int i = 0; i<a.length ) {
 
   }
 }
