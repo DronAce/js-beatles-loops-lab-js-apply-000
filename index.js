@@ -20,6 +20,7 @@ function iLoveTheBeatles() {
   var x = [];
   var i = 0;
   do-while( i < 15) {
-    x = ['I Love the Beatles'];
+    x[i] = ['I Love the Beatles'];
+
   }
 }
