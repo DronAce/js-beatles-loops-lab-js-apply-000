@@ -1,9 +1,10 @@
 // add solution here
 function theBeatlesPlay(a , b) {
   var musicians = [];
-  for (
-  }
-
+  for (var i = 0; i < a.length; i++) {
+      musicians.push(a[i] + 'plays' + b[i]);
+    }
+}
   return musicians;
 }
 
@@ -12,7 +13,7 @@ function johnLennonFacts(a) {
   while (i < a.length) {
   a[i] = a[i] + "!!!";
   }
-return a;
+  return a;
 }
 
 function iLoveTheBeatles() {
