@@ -4,7 +4,6 @@ function theBeatlesPlay(a , b) {
   for (var i = 0; i < a.length; i++) {
       musicians.push(a[i] + 'plays' + b[i]);
     }
-}
   return musicians;
 }
 
