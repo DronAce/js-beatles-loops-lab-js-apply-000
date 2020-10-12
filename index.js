@@ -17,5 +17,9 @@ function johnLennonFacts(a) {
 }
 
 function iLoveTheBeatles() {
-
+  var x = [];
+  var i = 0;
+  do-while( i < 15) {
+    x = ['I Love the Beatles'];
+  }
 }
